@@ -29,7 +29,7 @@ v0.0.1 - Hello, world!
 
 
 
-The following references to original themes:
+References to original themes:
 ---------------------------------------------
 
 *	Pronto 1.0
