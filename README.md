@@ -6,7 +6,7 @@ Grid Responsive Theme created by a modified mix of: Pronto (by WPExplorer), Pinb
 -------------------------------------------------------
 
 Theme Name: Grid-Mashup
-Version: 0.2
+Version: 0.3
 Description: Grid Responsive Theme created by a modified mix of: Pronto (by WPExplorer), Pinbin (by Color Awesomeness) and WPMedium (by Charlie MERLAND).
 Theme URI: https://github.com/hold3n/GridMashup-Wordpress-Theme
 Tags: responsive, light, flexible-width, custom-header, custom-background, threaded-comments, custom-menu, featured-image-header, featured-images, full-width-template, theme-options, translation-ready, masonry
