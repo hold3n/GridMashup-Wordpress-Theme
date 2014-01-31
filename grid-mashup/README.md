@@ -1,6 +1,6 @@
 Description
 ------------
-------------
+
 
 This theme is built using "Pronto" as a basic framework.
 
@@ -11,7 +11,7 @@ Once built this structure I changed the overall style and solved some problems. 
 
 Changelog
 ----------
-----------
+
 
 v0.3 - First Release
 
