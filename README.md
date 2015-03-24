@@ -62,6 +62,4 @@ v0.0.2 - Grid Elements like Pinbin. Fixed problem resizing.
 
 v0.0.1 - Hello, world!
 
--------------------------------------------------------
 
-Preview: http://test.ibridodesign.com/mashuptest/
